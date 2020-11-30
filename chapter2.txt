@@ -1,5 +1,5 @@
 Front End Development
-1. HTML
-2. CSS
-3. Javascript
+1. HTML: basics, forms validations , accessibility, SEO basics
+2. CSS: basics, layouts(floats, positioning,display, box model, css grid, flex box, media queries, responsive design
+3. Javascript: syntax and constructs, DOM , API fetch, Hoisting, Event bubbling, scope prototype, shadow DOM 
  
