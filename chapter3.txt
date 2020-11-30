@@ -1,1 +1,7 @@
 Back End Development 
+1. Node.js
+2. API
+3. Git hub
+4. SQL
+5. MongoDb
+6. Auth & security

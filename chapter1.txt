@@ -1,1 +1,5 @@
 Learn Web Development
+1. front end : responsive website
+2. practise javascript
+3. backend practise API
+4. Practise Node.js
